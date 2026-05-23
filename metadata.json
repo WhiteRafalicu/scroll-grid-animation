@@ -1,0 +1,6 @@
+{
+  "name": "Scroll Grid Animation",
+  "description": "A high-performance scroll-driven grid animation powered by React and Motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
