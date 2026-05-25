@@ -339,7 +339,7 @@ export default function App() {
           className="absolute bottom-0 left-1/2 -translate-x-1/2 z-[8] w-full max-w-7xl px-4 flex justify-center pointer-events-none"
         >
           <img
-            src="https://cdn.discordapp.com/attachments/874341182577205269/1507415093422588145/Untitled_Project.png?ex=6a11d134&is=6a107fb4&hm=b8f7821a86517d2d98bc7a35e51c80a45385b0e2d077d7ca8e306f9bedc8dc74&"
+            src="https://res.cloudinary.com/doxwhyhqr/image/upload/v1779714821/Oscar_kithgo.png"
             alt="Hero Centered Asset"
             className="w-auto h-auto max-h-[92vh] sm:max-h-[85vh] md:max-h-[75vh] lg:max-h-[80vh] object-contain object-bottom drop-shadow-[0_10px_50px_rgba(0,0,0,0.85)] scale-[1.2] sm:scale-[1.1] md:scale-100 origin-bottom"
           />
@@ -443,22 +443,22 @@ export default function App() {
                 className="layer layer-1"
               >
                 <div>
-                  <img src="https://cdn.discordapp.com/attachments/874341182577205269/1507400539405680720/solomon2025.jpeg?ex=6a11c3a6&is=6a107226&hm=1c81dc5303243daf21edaaeb389cdf6f8ca54cfb92bea989d10f58431e11cca8&" alt="solomon2025" />
+                  <img src="https://res.cloudinary.com/doxwhyhqr/image/upload/v1779715240/freelook_ywrmy3.jpg" alt="freelook" />
                 </div>
                 <div>
-                  <img src="https://cdn.discordapp.com/attachments/874341182577205269/1507400559232159784/rafa67.jpeg?ex=6a11c3ab&is=6a10722b&hm=d25954ff113bc9a99a51e7477fc9ac3e74cf4317c9c9384cb27b4d0e6498fb9a&" alt="rafa67" />
+                  <img src="https://res.cloudinary.com/doxwhyhqr/image/upload/v1779715242/rafa67_a5t8ts.jpg" alt="rafa67" />
                 </div>
                 <div>
-                  <img src="https://cdn.discordapp.com/attachments/874341182577205269/1507400602836144318/pozaflash.jpeg?ex=6a11c3b5&is=6a107235&hm=fedf6040c97a4a6ed6944ecfb153b95651b8219ae0c279341aea9e6b123f4a95&" alt="pozaflash" />
+                  <img src="https://res.cloudinary.com/doxwhyhqr/image/upload/v1779715241/pozaflash_dyedqb.jpg" alt="pozaflash" />
                 </div>
                 <div>
-                  <img src="https://cdn.discordapp.com/attachments/874341182577205269/1507400606678122496/pozatausanu.jpeg?ex=6a11c3b6&is=6a107236&hm=2c10497cf2fd5f5f8b50aa9bae5ec4db5ea9a49219a8600d79f58fc612acabeb&" alt="pozatausanu" />
+                  <img src="https://res.cloudinary.com/doxwhyhqr/image/upload/v1779715241/pozatausanu_bfdtrz.jpg" alt="pozatausanu" />
                 </div>
                 <div>
-                  <img src="https://cdn.discordapp.com/attachments/874341182577205269/1507400612311072969/pozaaramanitravis.jpeg?ex=6a11c3b8&is=6a107238&hm=8f7a168665eca8f76c4f8fc349ae90fc7a9e71739b70ef1cd7298ea7e80c889a&" alt="pozaaramanitravis" />
+                  <img src="https://res.cloudinary.com/doxwhyhqr/image/upload/v1779715241/pozaaramanitravis_akifm8.jpg" alt="pozaaramanitravis" />
                 </div>
                 <div>
-                  <img src="https://cdn.discordapp.com/attachments/874341182577205269/1507400691801657554/mateisiwilling.jpeg?ex=6a11c3cb&is=6a10724b&hm=72bb6b019d5eb498a85e4327401cec07647288576ebfa1a38d43fbb2cb3fd7a7&" alt="mateisiwilling" />
+                  <img src="https://res.cloudinary.com/doxwhyhqr/image/upload/v1779715240/mateisiwilling_hsy7zf.jpg" alt="mateisiwilling" />
                 </div>
               </motion.div>
 
@@ -471,22 +471,22 @@ export default function App() {
                 className="layer layer-2"
               >
                 <div>
-                  <img src="https://cdn.discordapp.com/attachments/874341182577205269/1507400714958143609/mateisala.jpeg?ex=6a11c3d0&is=6a107250&hm=c1d02dcdbdf154ffc058416985f4fcbc65380acf6abaf1a2447db81005f8c29c&" alt="mateisala" />
+                  <img src="https://res.cloudinary.com/doxwhyhqr/image/upload/v1779715240/mateisala_hwigeg.jpg" alt="mateisala" />
                 </div>
                 <div>
-                  <img src="https://cdn.discordapp.com/attachments/874341182577205269/1507400743949303818/mateibeat.jpeg?ex=6a11c3d7&is=6a107257&hm=2ef1cce8fbe85c3a6550345f83ac9ecf6265ad338bffd407529a027774ecb813&" alt="mateibeat" />
+                  <img src="https://res.cloudinary.com/doxwhyhqr/image/upload/v1779715241/mateibeat_q0usrm.jpg" alt="mateibeat" />
                 </div>
                 <div>
-                  <img src="https://cdn.discordapp.com/attachments/874341182577205269/1507400951726735470/freelook.jpeg?ex=6a11c409&is=6a107289&hm=026e3b1e82b85a404bffbf006ab39c12fe10be56e49cdf9d1da2bc7c7c26b953&" alt="freelook" />
+                  <img src="https://res.cloudinary.com/doxwhyhqr/image/upload/v1779715240/freelook_ywrmy3.jpg" alt="freelook" />
                 </div>
                 <div>
-                  <img src="https://cdn.discordapp.com/attachments/874341182577205269/1507400970819207198/dangratar.jpeg?ex=6a11c40d&is=6a10728d&hm=fb2aedc170146b1fdea677e0664810d3b39a49b1dde4ff466871e481638e8652&" alt="dangratar" />
+                  <img src="https://res.cloudinary.com/doxwhyhqr/image/upload/v1779715242/dangratar_dtngod.jpg" alt="dangratar" />
                 </div>
                 <div>
-                  <img src="https://cdn.discordapp.com/attachments/874341182577205269/1507400995901014207/danbeat.jpeg?ex=6a11c413&is=6a107293&hm=fb899307e0ff5044297dff65b189f7d2cbc6d6e13090a914579eb73fdc9083a1&" alt="danbeat" />
+                  <img src="https://res.cloudinary.com/doxwhyhqr/image/upload/v1779715242/danbeat_zlmcqw.jpg" alt="danbeat" />
                 </div>
                 <div>
-                  <img src="https://cdn.discordapp.com/attachments/874341182577205269/1507401019896627331/cuterevelion.jpeg?ex=6a11c419&is=6a107299&hm=939f3d371f3a7c87ee50060329016790be80d4c96cffde109d2e93ffa966f500&" alt="cuterevelion" />
+                  <img src="https://res.cloudinary.com/doxwhyhqr/image/upload/v1779715242/cuterevelion_iso9lu.jpg" alt="cuterevelion" />
                 </div>
               </motion.div>
 
@@ -499,10 +499,10 @@ export default function App() {
                 className="layer layer-3"
               >
                 <div>
-                  <img src="https://cdn.discordapp.com/attachments/874341182577205269/1507401034853519580/chamba.jpeg?ex=6a11c41c&is=6a10729c&hm=512a6d70e9173a7695e70ca53c217df6e923707ce6b0f7213e47282555d4d957&" alt="chamba" />
+                  <img src="https://res.cloudinary.com/doxwhyhqr/image/upload/v1779715242/chamba_jciz1e.jpg" alt="chamba" />
                 </div>
                 <div>
-                  <img src="https://cdn.discordapp.com/attachments/874341182577205269/1507401058136227961/armanipixel.jpeg?ex=6a11c422&is=6a1072a2&hm=d8f3dd2092f2eae7e52e79bc3382545387cf104eb2f23c7b37f7065654f0fe76&" alt="armanipixel" />
+                  <img src="https://res.cloudinary.com/doxwhyhqr/image/upload/v1779715242/armanipixel_zofizd.jpg" alt="armanipixel" />
                 </div>
               </motion.div>
 
@@ -512,7 +512,7 @@ export default function App() {
                 className="scaler"
               >
                 <motion.img
-                  src="https://cdn.discordapp.com/attachments/874341182577205269/1507400641289519214/Image.png?ex=6a11c3bf&is=6a10723f&hm=497a4d23352e0b90464bda9df680fb4382cb50785e5151d6fbf88cd260c9a1e1&"
+                  src="https://res.cloudinary.com/doxwhyhqr/image/upload/v1779715240/Image_r9ly0w.png"
                   alt="Main central hero image"
                   style={{
                     width: prefersReduced ? '100%' : imageWidth,

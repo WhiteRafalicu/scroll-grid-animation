@@ -5,7 +5,6 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/scroll-grid-animation/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
